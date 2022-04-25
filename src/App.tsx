@@ -1,5 +1,5 @@
 import React from 'react'
-import Todoist from './components/TodoList/TodoList'
+import Todoist from './components/Todo/Todo'
 function App() {
   return (
     <div>
